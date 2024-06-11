@@ -19,13 +19,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a PhD student at the University of Cambridge and a SLAB Fellow at the
-University of Malaya. My PhD work is on scientific computing, where I developed
-fast, high-order finite element solver for acoustic simulation. In particular, I
-developed a solver for focused ultrasound application. Prior to my PhD, I
-completed a MPhil in Scientific Computing at the University of Cambridge and a
-MSc in Mathematics at the National University of Malaysia. I also holds a BEng
-in Mechanical Engineering from the University of Malaya. My research interests
-include scientific computing, computational acoustics, and open-source software
+University of Malaya. My PhD research focuses on the development of a fast,
+high-order finite element solver for acoustic simulation, particularly a solver
+for focused ultrasound applications. Prior to my PhD, I completed an MPhil in
+Scientific Computing at the University of Cambridge and an MSc in Mathematics at
+the National University of Malaysia. I also hold a BEng in Mechanical
+Engineering from the University of Malaya. My research interests include
+computational acoustics, high-performance computing, and open-source software
 development.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
