@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: Codes
 # description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-description: Research codes.
+description: A collection of my research codes.
 nav: true
 nav_order: 4
 ---
