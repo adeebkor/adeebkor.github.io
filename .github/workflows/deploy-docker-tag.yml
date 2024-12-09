@@ -3,7 +3,7 @@ name: Docker Image CI (Upload Tag)
 on:
   push:
     tags:
-      - "v*"
+      - "v0.12.0"
     paths:
       - "bin/entry_point.sh"
       - "Dockerfile"
