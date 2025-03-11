@@ -15,4 +15,5 @@ Organize your courses by years, topics, or universities, however you like! -->
 * KIG1010 Fluid mechanics I - Faculty of Engineering, University of Malaya
 * KIX1001 Engineering Mathematics I - Faculty of Engineering, University of Malaya
 * KIX1002 Engineering Mathematics II - Faculty of Engineering, University of Malaya
+* KIG4062 Computational Fluid Dynamics - Faculty of Engineering, University of Malaya
 * STQM1114 Calculus I - School of Mathematical Sciences, The National University of Malaysia
