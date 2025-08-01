@@ -47,8 +47,8 @@
   // ],
   "education": [
     {
-      "institution": "University of Cambridge",
-      "location": "United Kingdom",
+      "institution": "University of Cambridge, United Kingdom",
+      // "location": "Cambridge, United Kingdom",
       // "url": "https://www.uzh.ch/",
       "area": "Computational Science and Engineering",
       "studyType": "PhD",
