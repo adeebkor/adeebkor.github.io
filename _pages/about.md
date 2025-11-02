@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Faculty of Engineering,</p>
-    <p>University of Malaya,</p>
+    <p>Universiti Malaya,</p>
     <p>50603 Kuala Lumpur, Malaysia</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a senior lecturer in the Department of Mechanical Engineering, University
-of Malaya. Prior to my lectureship, I was a [PhD
+I am a senior lecturer in the Department of Mechanical Engineering, Universiti
+Malaya. Prior to my lectureship, I was a [PhD
 student](https://garth-wells.github.io/) at the University of Cambridge. My PhD
 research focused on the development of a fast, high-order finite element solver
 for focused ultrasound applications. My research interests include computational
